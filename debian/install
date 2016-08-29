@@ -1,0 +1,4 @@
+*.html /usr/share/rutherford-scattering
+config.xml /usr/share/rutherford-scattering
+*.desktop /usr/share/applications
+

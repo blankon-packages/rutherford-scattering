@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Rutherford Scattering
+Comment=Rutherford Scattering
+GenericName=Rutherford Scattering
+Exec=maleo /usr/share/rutherford-scattering
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=orca
+Categories=Education;
+StartupWMClass=Maleo
+StartupNotify=true
+

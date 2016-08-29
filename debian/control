@@ -1,0 +1,13 @@
+Source: rutherford-scattering
+Section: science
+Priority: extra
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Standards-Version: 3.9.3
+Build-Depends: cdbs, debhelper (>= 8.0.0)
+
+Package:  rutherford-scattering
+Architecture: all
+Depends: maleo
+Description:  rutherford-scattering
+ An HTML5 remake of the original  rutherford-scattering - expanded for modern browsing.
+ 
